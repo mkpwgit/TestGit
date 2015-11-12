@@ -7,5 +7,6 @@ public class Main {
         System.out.println("B1");
         System.out.println("B2");
         System.out.println("B3");
+        System.out.println("er");
     }
 }
